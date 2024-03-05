@@ -1,4 +1,4 @@
-# Game Ptoject
+# Game Project
 
 Para correr el juego debes seguir las siguientes instruciones en le terminar
 
